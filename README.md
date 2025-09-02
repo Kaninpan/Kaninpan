@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">My name is Kanin Armonsawatchai <br>A developer from Nakhon pathom TH<br>Currently working as a PHP Developer with experience as a Software Developer</p>
+<p align="left">My name is **Kanin Armonsawatchai** <br>A developer from **Nakhon pathom TH**<br>Currently working as a **PHP Developer** with experience as a **Software Developer**</p>
 
 ###
 
